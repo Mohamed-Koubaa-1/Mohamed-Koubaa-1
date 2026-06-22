@@ -26,7 +26,7 @@ Currently
 
 Looking for graduate engineering programs and student roles in mechanical design, embedded systems, or automotive engineering — based in Berlin, open to relocation.
 
-📫 Connect: [LinkedIn](https://www.linkedin.com/in/med-koubaa/)
+📫 Connect: "[LinkedIn](https://www.linkedin.com/in/med-koubaa/)"
 
 ##
 <!--
