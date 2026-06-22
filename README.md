@@ -27,6 +27,7 @@ Currently
 Looking for graduate engineering programs and student roles in mechanical design, embedded systems, or automotive engineering — based in Berlin, open to relocation.
 
 📫 Connect: [LinkedIn](https://www.linkedin.com/in/med-koubaa/)
+
 ##
 <!--
 **Mohamed-Koubaa-1/Mohamed-Koubaa-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
